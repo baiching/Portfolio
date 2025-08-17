@@ -7,7 +7,7 @@ const SocialsMenu = () => {
     <nav>
       <ul className="flex space-x-6 font-bold text-[20px] text-[#4e525a]">
         <li className="hover:text-purple-600">
-          <Link href="https://instagram.com/mr_mayur_nakum" target="_blank">
+          <Link href="https://instagram.com/baichingg" target="_blank">
             <Instagram />
           </Link>
         </li>
@@ -20,7 +20,7 @@ const SocialsMenu = () => {
           </Link>
         </li>
         <li className="hover:text-purple-600">
-          <Link href="https://github.com/mayurnakum07" target="_blank">
+          <Link href="https://github.com/baiching" target="_blank">
             <Github />
           </Link>
         </li>

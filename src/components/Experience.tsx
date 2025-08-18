@@ -16,9 +16,8 @@ const Experience = () => {
             Experience<span className="text-purple-600">.</span>
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl animate-fade-in-up delay-200">
-            My professional journey in frontend development, working with
-            cutting-edge technologies and delivering exceptional user
-            experiences.
+            My professional journey in software development, working with
+            cutting-edge technologies both frontend and backend.
           </p>
         </div>
 
@@ -43,7 +42,7 @@ const Experience = () => {
 
                     {/* Position Badge */}
                     <div className="inline-block bg-purple-50 text-purple-700 px-4 py-2 rounded-full text-sm font-semibold border border-purple-200">
-                      Front-end Developer
+                      Software Developer
                     </div>
                   </div>
 
@@ -137,12 +136,12 @@ const Experience = () => {
                           10+ Projects Completed
                         </span>
                       </div>
-                      <div className="flex items-center gap-3">
+                      {/* <div className="flex items-center gap-3">
                         <div className="w-3 h-3 bg-purple-600 rounded-full"></div>
                         <span className="text-gray-700">
                           100% Client Satisfaction
                         </span>
-                      </div>
+                      </div> */}
                       <div className="flex items-center gap-3">
                         <div className="w-3 h-3 bg-purple-600 rounded-full"></div>
                         <span className="text-gray-700">

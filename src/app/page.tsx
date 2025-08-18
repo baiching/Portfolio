@@ -66,10 +66,10 @@ const Home = () => {
                 {/* Main Heading with Gradient */}
                 <h1 className="text-4xl lg:text-7xl md:text-6xl font-bold leading-tight">
                   <span className="bg-gradient-to-r from-purple-600 to-purple-800 bg-clip-text text-transparent animate-fade-in-up delay-200">
-                    Front
+                    Full
                   </span>
                   <span className="text-gray-800 animate-fade-in-up delay-300">
-                    end
+                    stack
                   </span>
                   <br />
                   <span className="text-gray-800 animate-fade-in-up delay-400">
@@ -81,25 +81,24 @@ const Home = () => {
               {/* Enhanced Description */}
               <div className="space-y-6">
                 <p className="text-gray-700 text-lg lg:text-xl xl:text-2xl leading-relaxed max-w-2xl animate-fade-in-up delay-500">
-                  I&apos;m a passionate frontend developer based in India,
+                  I&apos;m a passionate software developer based in Frankfurt am Main, Germany
                   specializing in creating{" "}
                   <span className="text-purple-600 font-semibold">
-                    beautiful, responsive, and user-centric
+                    beautiful, responsive and powerful
                   </span>{" "}
-                  web and mobile applications that deliver exceptional user
-                  experiences.
+                  web and desktop applications that deliver exceptional performance.
                 </p>
 
                 {/* Key Highlights */}
                 <div className="flex flex-wrap gap-4 justify-center lg:justify-start animate-fade-in-up delay-600">
                   <span className="bg-purple-50 text-purple-700 px-4 py-2 rounded-full text-sm font-medium border border-purple-200">
-                    React & Next.js Expert
+                    React & Angular
                   </span>
                   <span className="bg-purple-50 text-purple-700 px-4 py-2 rounded-full text-sm font-medium border border-purple-200">
-                    Mobile Development
+                    Java Development
                   </span>
                   <span className="bg-purple-50 text-purple-700 px-4 py-2 rounded-full text-sm font-medium border border-purple-200">
-                    UI/UX Focused
+                    Fullstack Focused
                   </span>
                 </div>
               </div>
@@ -117,7 +116,7 @@ const Home = () => {
                 </Link>
 
                 <Link
-                  href="https://Baichingnakum-portfolio.vercel.app/BaichingResume.pdf"
+                  href="https://Baichingnakum-portfolio.vercel.app/BaichingCV.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group px-8 py-4 bg-transparent border-2 border-gray-300 text-gray-700 rounded-xl hover:border-purple-600 hover:text-purple-600 font-semibold transition-all duration-300 transform  flex items-center gap-2"
@@ -134,7 +133,7 @@ const Home = () => {
               <div className="relative w-full h-full rounded-full border-4 border-purple-300 shadow-xl overflow-hidden">
                 <Image
                   src={profileImg}
-                  alt="Baiching Nakum - Frontend Developer"
+                  alt="Uthowaipru Chowdhury Baiching - Software Developer"
                   className="object-cover w-full h-full transform hover:scale-110 transition-transform duration-500"
                   priority
                   sizes="(max-width: 768px) 288px, (max-width: 1024px) 320px, 384px"

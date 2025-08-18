@@ -43,9 +43,9 @@ const Footer = () => {
         {/* Copyright */}
         <section className="flex flex-col justify-center items-center md:items-end">
           <h3 className="text-[17px] text-gray-500 text-end">
-            ©2024 All Rights Reserved.
+            ©2025 All Rights Reserved.
             <br />
-            Made with 💜 by Baiching Nakum
+            Made with 💜 by Uthowaipru Chowdhury Baiching
           </h3>
         </section>
       </div>
